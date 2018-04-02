@@ -7,8 +7,8 @@ Building and Running
 1. Run `mvn clean install` to build your application
 1. Start application with `java -jar target/metrics-1.0.jar server config.yml`
 1. To check that your application is running, browse to
-  - The admin url:  [http://local.sdxdemo.com:8081/]
-  - A demo app url: [http://local.sdxdemo.com:8080/greeting]
+  - The admin url:  http://local.sdxdemo.com:8081/
+  - A demo app url: http://local.sdxdemo.com:8080/greeting
 
 What is [Dropwizard](http://www.dropwizard.io/1.3.0/docs/getting-started.html)?
 ---
