@@ -21,7 +21,6 @@ public class GreeterResource {
     }
 
     @GET
-    @Path("/")
     public Greeting greeting() {
         return new Greeting();
     }
