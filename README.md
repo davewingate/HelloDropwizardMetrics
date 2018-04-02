@@ -1,6 +1,6 @@
 # HelloDropwizardMetrics
 A 'hello world' demonstration of the Dropwizard Metrics library.
-It's a Dropwizard app that offers a [GreeterResource](src/main/java/hello/metrics/resources/GreeterResource.java), which let's us try out various metrics.
+It's a Dropwizard app that offers a [GreeterResource](src/main/java/hello/metrics/resources/GreeterResource.java), which lets us try out various metrics.
 
 Building and Running
 ---
