@@ -10,12 +10,6 @@ Building and Running
   - The admin url:  `http://local.sdxdemo.com:8081/`
   - A demo app url: `http://local.sdxdemo.com:8080/greeting`
 
-What is Dropwizard?
----
- - An opinionated framework for building RESTful web services in Java.
- - Glues together third-party libraries: Jetty to serve HTTP requests; Jersey for modeling REST resources; Jackson for marshaling JSON.
- - Also includes a the "Dropwizard Metrics" module, which is our focus today.
-
 What is [Dropwizard](http://www.dropwizard.io/1.3.0/docs/getting-started.html)?
 ---
  - An opinionated framework for building RESTful web services in Java.
