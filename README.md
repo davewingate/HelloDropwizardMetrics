@@ -33,4 +33,5 @@ Discussion and Lab Exercises
  - Where can we [view the observed metric values](http://local.sdxdemo.com:8081/metrics?pretty=true)?
  - What other [types of metrics](http://metrics.dropwizard.io/4.0.0/manual/core.html) does Dropwizard metrics support?
  - We've seen examples of Timers and Gauges in action.  Demonstrate the use of some other supported metric type by adding a new endpoint to [GreeterResource](src/main/java/hello/metrics/resources/GreeterResource.java).
+ - Add a [healthcheck](https://metrics.dropwizard.io/3.1.0/manual/healthchecks/) for our app.  Check the [app's health](http://local.sdxdemo.com:8081/healthcheck?pretty=true).
 
